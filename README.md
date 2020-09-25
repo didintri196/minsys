@@ -1,2 +1,2 @@
 # minsys
-Open Source minimalis system Mikrotik untuk usaha ISP / RT-RW NET
+Open Source Minimalis System Mikrotik untuk usaha ISP / RT-RW NET
